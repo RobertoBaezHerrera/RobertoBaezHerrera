@@ -15,7 +15,7 @@ A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de progra
 
 1. C++  
 
-2. Ensamblador (MIPS 32)
+2. Ensamblador
 
 3. Javascript
 
