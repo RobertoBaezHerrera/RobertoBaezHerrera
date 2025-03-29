@@ -4,7 +4,7 @@
 
 **Alumno:** [Roberto Báez Herrera](https://campusingenieriaytecnologia2425.ull.es/user/view.php?id=24250901463&course=2425090148)
 
-Soy una alumno que actualmente está cursando el [Grado en Ingeniería Informática](https://www.ull.es/grados/ingenieria-informatica/) por la Universidad de La Laguna.
+Soy un alumno que actualmente está cursando el [Grado en Ingeniería Informática](https://www.ull.es/grados/ingenieria-informatica/) por la Universidad de La Laguna.
 Concretamente, durante la carrera estoy cursando Procesadores de Lenguajes.
 
 *Esta es una de mis citas favoritas:*
