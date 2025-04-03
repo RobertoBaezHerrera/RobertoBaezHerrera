@@ -20,10 +20,7 @@ A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de progra
 3. Javascript
 
 4. Python
-   Este es un item en una lista con dos párrafos. Este es el primer párrafo.  
-
-   Este es el segundo párrafo que pertenece al mismo item.
-
+  
 ---
 
 Puedes encontrarme en: :+1:
