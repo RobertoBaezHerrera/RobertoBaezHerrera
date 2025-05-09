@@ -19,7 +19,9 @@ A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de progra
 
 3. Javascript
 
-4. Python
+4. SQL & NoSQL
+
+5. Python
   
 ---
 
