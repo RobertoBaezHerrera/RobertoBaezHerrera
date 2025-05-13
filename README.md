@@ -7,9 +7,6 @@
 Soy un alumno que actualmente está cursando el [Grado en Ingeniería Informática](https://www.ull.es/grados/ingenieria-informatica/) por la Universidad de La Laguna.
 Concretamente, durante la carrera estoy cursando Procesadores de Lenguajes.
 
-*Esta es una de mis citas favoritas:*
->Hay cosas que parecen increíbles para la mayoría de los hombres que no han estudiado Matemáticas.  — Arquímedes
-
 
 A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de programación: (Lista ordenada)
 
