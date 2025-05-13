@@ -18,7 +18,9 @@ A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de progra
 
 4. SQL & NoSQL
 
-5. Python
+5. Bash script
+
+6. Python
   
 ---
 
