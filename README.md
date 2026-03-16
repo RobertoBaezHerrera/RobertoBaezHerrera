@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Mi perfil
 
 **Alumno:** [Roberto Báez Herrera](https://campusingenieriaytecnologia2425.ull.es/user/view.php?id=24250901463&course=2425090148)
