@@ -1,13 +1,13 @@
-# 👋 Hello! I'm Roberto Báez Herrera
+# Hello! I'm Roberto Báez Herrera
 
 Welcome to my GitHub profile! I am a passionate developer with experience in multiple programming languages and technologies.
 
-## 🚀 About Me
-- 💻 I love programming and learning new technologies.
-- 🎯 Interested in software development, algorithm optimization, and system architecture.
-- 📚 Always exploring new ways to improve my skills.
+## About Me
+- I love programming and learning new technologies.
+- Interested in software development, algorithm optimization, and system architecture.
+- Always exploring new ways to improve my skills.
 
-## 🛠️ Technologies & Languages
+## Technologies & Languages
 
 Here are some of the programming languages I have worked with:
 
@@ -19,7 +19,7 @@ Here are some of the programming languages I have worked with:
 - [![MIPS](https://img.shields.io/badge/MIPS-004482?style=flat&logo=mips&logoColor=white)](https://en.wikichip.org/wiki/mips)
 - [![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
-## 🏆 Trophies
+## Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=adrianalejandropadronlopez&margin-w=5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
@@ -37,7 +37,7 @@ Here are some of the programming languages I have worked with:
   />
 </picture>
 
-## 📫 Contact Me
+## Contact Me
 - ✉️ Email: [alu0101497013@ull.edu.es](mailto:alu0101497013@ull.edu.es)
 
 Thanks for visiting my profile! 😊
