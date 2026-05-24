@@ -19,9 +19,6 @@ Here are some of the programming languages I have worked with:
 - [![MIPS](https://img.shields.io/badge/MIPS-004482?style=flat&logo=mips&logoColor=white)](https://en.wikichip.org/wiki/mips)
 - [![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianalejandropadronlopez&show_icons=true&theme=dark)
-
 ## 🏆 Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=adrianalejandropadronlopez&margin-w=5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
