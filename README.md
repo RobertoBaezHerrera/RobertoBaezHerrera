@@ -6,13 +6,13 @@ Soy un alumno que actualmente está cursando el [Grado en Ingeniería Informáti
 Concretamente, durante la carrera estoy cursando Procesadores de Lenguajes.
 
 
-A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de programación: (Lista ordenada)
+A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de programación:
 
 1. C++  
 
 2. Ensamblador
 
-3. Javascript
+3. Javascript / TypeScript
 
 4. SQL & NoSQL
 
