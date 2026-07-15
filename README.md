@@ -28,6 +28,6 @@ You can find me on: :+1:
  
 |     Sitio de contacto     | Enlace al sitio                                                                                                   |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| Linkedin                    | [<img src="[https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-roundet-3d.png](https://es.vecteezy.com/arte-vectorial/18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin)" width="32">](www.linkedin.com/in/robertobaezh)    
+| Linkedin                    | [<img src="[[https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-roundet-3d.png](https://es.vecteezy.com/arte-vectorial/18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin)](https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg)" width="32">](www.linkedin.com/in/robertobaezh)    
 | GitHub                    | [<img src="https://avatars.githubusercontent.com/u/91560805?v=4" width="32">](https://github.com/RobertoBaezHerrera)                                               |
 
