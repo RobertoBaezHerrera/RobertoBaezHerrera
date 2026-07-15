@@ -29,5 +29,5 @@ You can find me on: :+1:
 |     Sitio de contacto     | Enlace al sitio                                                                                                   |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
 | Linkedin                    | [<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="32">](www.linkedin.com/in/robertobaezh)    
-| GitHub                    | [<img src="https://avatars.githubusercontent.com/u/91560805?v=4" width="32">](https://github.com/RobertoBaezHerrera)                                               |
+| GitHub                    | [<img src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png" width="32">](https://github.com/RobertoBaezHerrera)                                               |
 
