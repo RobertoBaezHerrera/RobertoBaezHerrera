@@ -19,24 +19,6 @@ Here are some of the programming languages I have worked with:
 - [![MIPS](https://img.shields.io/badge/MIPS-004482?style=flat&logo=mips&logoColor=white)](https://en.wikichip.org/wiki/mips)
 - [![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
-## Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=adrianalejandropadronlopez&margin-w=5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alu0101246949/alu0101246949/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alu0101246949/alu0101246949/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/alu0101246949/alu0101246949/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ## Contact Me
 - ✉️ Email: [alu0101497013@ull.edu.es](mailto:alu0101497013@ull.edu.es)
 
@@ -46,6 +28,6 @@ You can find me on: :+1:
  
 |     Sitio de contacto     | Enlace al sitio                                                                                                   |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| Instagram                    | [<img src="https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-roundet-3d.png" width="32">](https://www.instagram.com/robertobaezz_/?utm_source=qr&igsh=cDY3amY3YnI2M3dx#)    
+| Linkedin                    | [<img src="[https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-roundet-3d.png](https://es.vecteezy.com/arte-vectorial/18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin)" width="32">](www.linkedin.com/in/robertobaezh)    
 | GitHub                    | [<img src="https://avatars.githubusercontent.com/u/91560805?v=4" width="32">](https://github.com/RobertoBaezHerrera)                                               |
 
